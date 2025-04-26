@@ -3,6 +3,9 @@ class newfile{
 
     System.out.println(i);
 }
+
 String h=" hi hello how are you";
+
+String h=" hi hello sir ";
 }
 
