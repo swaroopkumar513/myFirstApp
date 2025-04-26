@@ -3,6 +3,6 @@ class newfile{
 
     System.out.println(i);
 }
-String h="hello";
+String h=" hi hello";
 }
 
